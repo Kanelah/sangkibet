@@ -1,0 +1,21 @@
+
+@font-face{
+    font-family:Roboto;
+    src: url('../fonts/Roboto/Roboto-Medium.ttf');
+}
+
+@font-face{
+    font-family:Montserrat;
+    src: url('../fonts/Montserrat/Montserrat-Light.ttf');
+}
+
+@font-face{
+    font-family:Open_Sans;
+    src: url('../fonts/Open_Sans/OpenSans-Light.ttf');
+}
+
+@font-face{
+    font-family:Karantina;
+    src: url('../fonts/Karantina/Karantina-Light.ttf');
+}
+
